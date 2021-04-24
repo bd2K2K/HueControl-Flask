@@ -1,0 +1,36 @@
+body {
+ font-family: 'Poppins', sans-serif;
+ background-color:#fbe0c4;
+
+}
+h1 {
+    color:#0061a8;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid #f9f7f7;
+}
+th {
+  background-color:#112d4e;
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid #f9f7f7;
+}
+
+tr:hover {background-color:#8ab6d6;}
+
+.colored_table {
+   width="100%"
+   padding: 10px;
+   font-family: 'Poppins', sans-serif;
+    background-color: #3f72af;
+    color: white;
+  text-align: center;
+  border: 3px solid #310b0b;
+}
